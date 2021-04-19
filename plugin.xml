@@ -30,7 +30,6 @@
         <config-file target="*/Entitlements-Debug.plist" parent="com.apple.developer.pass-type-identifiers">
             <array>
                 <string>com.aub.mobilebanking.bh</string>
-                <string>com.aub.mobilebanking.phone.bhis</string>
             </array>
         </config-file>
         <js-module src="www/appleWallet.js" name="AppleWallet">
